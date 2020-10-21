@@ -2,7 +2,7 @@
 Scans your network for all adresses.
 
 ## Usage
-**This program requires Java 15**
+**JAR built for Java 15, but it isn't required for source**
 
 ```java -jar netscanner.jar [--network net][--timeout timeout]```
 
